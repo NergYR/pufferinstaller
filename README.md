@@ -1,4 +1,4 @@
-# pufferinstaller
+## pufferinstaller
 Installation Script For PufferPanel Make by Energetiq
 
 
