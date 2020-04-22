@@ -24,7 +24,7 @@ And The Installation :
 
 ``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_centos_7.sh) ```
 
-# Ubuntu 18.04
+# Ubuntu 
 
 This **After** installation:
 
@@ -32,7 +32,28 @@ This **After** installation:
 
 The Installation :
 
+**Ubuntu 18.04**
+
 ``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_ubuntu_18.04.sh) ```
+
+**Ubuntu 16.04**
+
+``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_ubuntu_16.04.sh) ```
+
+**Ubuntu 14.04**
+
+``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_ubuntu_14.04.sh) ```
+
+
+# Debian 8
+
+This **After** installation:
+
+```apt update && apt upgrade && apt-get install bash curl -y```
+
+The Installation:
+
+``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_debian_8.sh) ```
 
 
 
