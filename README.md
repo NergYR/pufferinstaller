@@ -2,8 +2,12 @@
 Installation Script For PufferPanel Make by Energetiq
 
 
-For use :
-> Centos 7
+use For :
+> Centos 7 ✔️
+> Debian 8 ✔️
+> Ubuntu 18.04 ✔️
+> Ubuntu 16.04 ✔️
+> Ubuntu 14.04 ✔️
 
 This **After** installation :
 
