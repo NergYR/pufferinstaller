@@ -11,7 +11,7 @@ This **After** installation :
 
 And The Installation :
 
-> ``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_centos_7.sh) ```
+``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_centos_7.sh) ```
 
 
 
