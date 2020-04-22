@@ -27,6 +27,7 @@ And The Installation :
 # Ubuntu 18.04
 
 This **After** installation:
+
 ```apt update && apt upgrade && apt-get install bash curl -y```
 
 The Installation :
