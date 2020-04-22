@@ -13,6 +13,9 @@ use For :
 
 > Ubuntu 14.04 ✔️
 
+
+# Centos 7
+
 This **After** installation :
 
 ``` yum update && yum upgrade && yum install bash curl -y```
