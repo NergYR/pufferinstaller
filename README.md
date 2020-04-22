@@ -3,9 +3,17 @@ Installation Script For PufferPanel Make by Energetiq
 
 
 use For :
+> Centos 6 🚫
+
 > Centos 7 ✔️
 
+> Centos 8 🚫
+
 > Debian 8 ✔️
+
+> Debian 9 🚫
+
+> Debian 10 🚫
 
 > Ubuntu 18.04 ✔️
 
