@@ -1,8 +1,8 @@
-### pufferinstaller
+# pufferinstaller
 Installation Script For PufferPanel Make by Energetiq
 
 
-# use For :
+### use For :
 
 
 | Operating System       | Version             | Version Support    |
@@ -24,26 +24,8 @@ Installation Script For PufferPanel Make by Energetiq
 
 
 
-> Centos 6 🚫
 
-> Centos 7 ✔️
-
-> Centos 8 🚫
-
-> Debian 8 ✔️
-
-> Debian 9 🚫
-
-> Debian 10 🚫
-
-> Ubuntu 18.04 ✔️
-
-> Ubuntu 16.04 ✔️
-
-> Ubuntu 14.04 ✔️
-
-
-# Centos 7
+### Centos 7
 
 This **After** installation :
 
@@ -53,7 +35,7 @@ And The Installation :
 
 ``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_centos_7.sh) ```
 
-# Ubuntu 
+### Ubuntu 
 
 This **After** installation:
 
@@ -74,7 +56,7 @@ The Installation :
 ``` bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/install_ubuntu_14.04.sh) ```
 
 
-# Debian 8
+### Debian 8
 
 This **After** installation:
 
