@@ -1,8 +1,29 @@
-## pufferinstaller
+### pufferinstaller
 Installation Script For PufferPanel Make by Energetiq
 
 
-use For :
+# use For :
+
+
+| Operating System       | Version             | Version Support    |
+|------------------------|---------------------|--------------------|
+|Centos                  |                     |                    |
+|                        |Centos 6             |  :red_circle:      |
+|                        |Centos 7             |  :white_check_mark:|
+|                        |Centos 8             |  :red_circle:      |
+|Ubuntu                  |                     |                    |
+|                        |Ubuntu 14.04         |  :white_check_mark:|
+|                        |Ubuntu 16.04         |  :white_check_mark:|
+|                        |Ubuntu 18.04         |  :white_check_mark:|
+|                        |                     |                    |
+|Debian                  |                     |                    |
+|                        |Debian 8             |  :white_check_mark:|
+|                        |Debian 9             |  :red_circle:      |
+|                        |Debian 10            |  :red_circle:      |
+|                        |                     |                    |
+
+
+
 > Centos 6 🚫
 
 > Centos 7 ✔️
