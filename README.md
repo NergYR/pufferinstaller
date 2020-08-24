@@ -8,9 +8,9 @@ Installation Script For PufferPanel Make by Energetiq
 | Operating System       | Version             | Version Support    |
 |------------------------|---------------------|--------------------|
 |Centos                  |                     |                    |
-|                        |Centos 6             |  :red_square:      |
-|                        |Centos 7             |  :white_check_mark:|
-|                        |Centos 8             |  :red_square:      |
+|                        | 6                   |  :red_square:      |
+|                        | 7                   |  :white_check_mark:|
+|                        | 8                   |  :red_square:      |
 |Ubuntu                  |                     |                    |
 |                        |Ubuntu 14.04         |  :white_check_mark:|
 |                        |Ubuntu 16.04         |  :white_check_mark:|
