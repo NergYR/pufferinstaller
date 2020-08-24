@@ -1,12 +1,12 @@
 # This installs the epel and remi repos for php7 support
 rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
-yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm
-yum install yum-utils
+yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm -y
+yum install yum-utils -y
 yum-config-manager --enable remi-php72
 
 # If you currently have apache2 installed you will not be able to use nginx as well. Please plan accordingly.
 yum update
-yum install nginx mariadb-server mariadb php-fpm php-common php-cli php-pdo php-mysqlnd
+yum install nginx mariadb-server mariadb php-fpm php-common php-cli php-pdo php-mysqlnd -y
 
 # Make sure to run these commands to make sure the services start on reboot
 systemctl enable nginx
