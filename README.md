@@ -29,7 +29,7 @@ Installation Script For PufferPanel Make by Energetiq
 
 This **After** installation :
 
-``` yum update && yum upgrade && yum install bash curl -y```
+``` yum update && yum upgrade -y && yum install bash curl -y```
 
 And The Installation :
 
@@ -39,7 +39,7 @@ And The Installation :
 
 This **After** installation:
 
-```apt update && apt upgrade && apt-get install bash curl -y```
+```apt update && apt upgrade -y && apt-get install bash curl -y```
 
 The Installation :
 
@@ -60,7 +60,7 @@ The Installation :
 
 This **After** installation:
 
-```apt update && apt upgrade && apt-get install bash curl -y```
+```apt update && apt upgrade -y && apt-get install bash curl -y```
 
 The Installation:
 
