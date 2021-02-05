@@ -23,6 +23,14 @@ Installation Script For PufferPanel Make by Energetiq
 |                        |                     |                    |
 
 
+### ------ PteroInstaller (Beta) -------- 
+
+
+The Installation :
+```sh bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/debianinstall.sh)```
+
+
+
 
 
 ### Centos 7
