@@ -27,7 +27,7 @@ Installation Script For PufferPanel Make by Energetiq
 
 
 The Installation :
-```sh bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/debianinstall.sh)```
+```bash <(curl -s https://raw.githubusercontent.com/NergYR/pufferinstaller/master/debianinstall.sh)```
 
 
 
